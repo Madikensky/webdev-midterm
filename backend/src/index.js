@@ -1,7 +1,4 @@
-const dotenv = require('dotenv');
 const express = require('express');
-
-dotenv.config();
 
 const apiRouter = require('./routes');
 
